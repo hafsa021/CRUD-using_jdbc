@@ -1,1 +1,1 @@
-# CRUD-using_jdbc
+This java program gives a brief idea about basic CRUD(Create,Read,Update,Delete) operations using MySQL database. It uses JDBC  with Connection and Resultset classes to interact with the database.# CRUD-using_jdbc
